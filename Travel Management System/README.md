@@ -15,6 +15,7 @@ Utilize responsive design principles for better adaptability to different screen
 Customization Options:
 
 Provide customization options, allowing users to personalize the appearance and settings according to their preferences.
+
 Visual Feedback:
 
 Implement visual feedback for user actions, such as highlighting selected items or providing animations for smooth transitions.
